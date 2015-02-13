@@ -24,6 +24,9 @@
     <ClInclude Include="brainfuckinterpreter.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="tape.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -33,6 +36,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="brainfuckinterpreter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="tape.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

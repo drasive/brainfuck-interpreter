@@ -7,7 +7,6 @@
 #include <sys/stat.h> 
 
 #include "BrainfuckInterpreter.h"
-#include "Instruction.h"
 
 #define BRAINFUCK_TOKEN_INCREMENT_CELL '+'
 #define BRAINFUCK_TOKEN_DECREMENT_CELL '-'
